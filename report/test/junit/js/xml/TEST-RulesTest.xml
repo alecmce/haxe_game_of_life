@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="RulesTest" time="0.049" errors="0" hostname="" failures="0" tests="6" timestamp="2011-10-09 13:49:06">
+<testcase name="aDeadCellWithNNeighborsWhereNIsntTwoOrStaysDead" time="0" classname="RulesTest"/>
+<testcase name="aDeadCellWithThreeNeighborsBecomesAlive" time="0" classname="RulesTest"/>
+<testcase name="aDeadCellWithTwoNeighborsStaysDead" time="0" classname="RulesTest"/>
+<testcase name="aLiveCellWithNNeighborsWhereNIsntTwoOrThreeDies" time="0" classname="RulesTest"/>
+<testcase name="aLiveCellWithThreeNeighborsRemainsLive" time="0.001" classname="RulesTest"/>
+<testcase name="aLiveCellWithTwoNeighborsStaysAlive" time="0" classname="RulesTest"/>
+<system-out></system-out>
+<system-err></system-err>
+</testsuite>

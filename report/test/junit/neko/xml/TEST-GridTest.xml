@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="GridTest" time="0.078" errors="0" hostname="" failures="0" tests="2" timestamp="2011-10-09 13:49:00">
+<testcase name="initiallyThereAreNoLiveNeighbors" time="0" classname="GridTest"/>
+<testcase name="liveNeighborCountIsAccurate" time="0" classname="GridTest"/>
+<system-out></system-out>
+<system-err></system-err>
+</testsuite>
